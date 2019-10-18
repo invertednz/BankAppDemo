@@ -1,0 +1,81 @@
+# Created at 2019-10-17T16:03:03.591
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-10-17T16:03:06.001
+Unexpected IOException: 6,1,DemoBankingApp.ACHPaymentTests,Area5Test[14],null,null,null
+
+
+# Created at 2019-10-17T16:03:06.013
+Unexpected IOException: 5,1,DemoBankingApp.ACHPaymentTests,Area5Test[15],null,null,null
+
+
+# Created at 2019-10-17T16:03:10.517
+Unexpected IOException: 6,1,DemoBankingApp.ACHPaymentTests,Area5Test[15],null,null,null
+
+
+# Created at 2019-10-17T16:03:10.529
+Unexpected IOException: 5,1,DemoBankingApp.ACHPaymentTests,Area5Test[16],null,null,null
+
+
+# Created at 2019-10-17T16:03:15.041
+Unexpected IOException: 6,1,DemoBankingApp.ACHPaymentTests,Area5Test[16],null,null,null
+
+
+# Created at 2019-10-17T16:03:15.045
+Unexpected IOException: 5,1,DemoBankingApp.ACHPaymentTests,Area5Test[17],null,null,null
+
+
+# Created at 2019-10-17T16:03:19.549
+Unexpected IOException: 6,1,DemoBankingApp.ACHPaymentTests,Area5Test[17],null,null,null
+
+
+# Created at 2019-10-17T16:03:19.565
+Unexpected IOException: 5,1,DemoBankingApp.ACHPaymentTests,Area5Test[18],null,null,null
+
+
+# Created at 2019-10-17T16:03:24.074
+Unexpected IOException: 6,1,DemoBankingApp.ACHPaymentTests,Area5Test[18],null,null,null
+
+
+# Created at 2019-10-17T16:03:24.086
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,DemoBankingApp.ACHPaymentTests,null,null,null
+
+
+# Created at 2019-10-17T16:03:24.102
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,DemoBankingApp.BranchConfigurationTests,null,null,null
+
+
+# Created at 2019-10-17T16:03:24.118
+Unexpected IOException: 5,1,DemoBankingApp.BranchConfigurationTests,Area16Test[1],null,null,null
+
+
+# Created at 2019-10-17T16:03:28.630
+Unexpected IOException: 6,1,DemoBankingApp.BranchConfigurationTests,Area16Test[1],null,null,null
+
+
+# Created at 2019-10-17T16:03:28.646
+Unexpected IOException: 5,1,DemoBankingApp.BranchConfigurationTests,Area16Test[2],null,null,null
+
+
+# Created at 2019-10-17T16:03:33.163
+Unexpected IOException: 6,1,DemoBankingApp.BranchConfigurationTests,Area16Test[2],null,null,null
+
+
+# Created at 2019-10-17T16:03:33.179
+Unexpected IOException: 5,1,DemoBankingApp.BranchConfigurationTests,Area16Test[3],null,null,null
+
+
+# Created at 2019-10-17T16:03:37.693
+Unexpected IOException: 6,1,DemoBankingApp.BranchConfigurationTests,Area16Test[3],null,null,null
+
+
+# Created at 2019-10-17T16:03:37.709
+Unexpected IOException: 5,1,DemoBankingApp.BranchConfigurationTests,Area16Test[4],null,null,null
+
+

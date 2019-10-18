@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: DemoBankingApp.NavigationTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.996 s - in DemoBankingApp.NavigationTests

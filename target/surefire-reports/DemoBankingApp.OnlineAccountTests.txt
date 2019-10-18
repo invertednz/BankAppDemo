@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: DemoBankingApp.OnlineAccountTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in DemoBankingApp.OnlineAccountTests
+Area1Test1  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Phone turned off
+	at DemoBankingApp.OnlineAccountTests.Area1Test1(OnlineAccountTests.java:28)
+
+Area1Test4[1]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Phone turned off
+	at DemoBankingApp.OnlineAccountTests.Area1Test4(OnlineAccountTests.java:45)
+
