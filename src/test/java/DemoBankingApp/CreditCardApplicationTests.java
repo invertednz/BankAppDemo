@@ -23,7 +23,7 @@ class CreditCardApplicationTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 4, name = "{displayName}")
+	@RepeatedTest(value = 5, name = "{displayName}")
 	public void Area12Test() {
 		try {
 			Thread.sleep(6000);

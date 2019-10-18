@@ -23,7 +23,7 @@ class BranchConfigurationTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 26, name = "{displayName}")
+	@RepeatedTest(value = 44, name = "{displayName}")
 	public void Area16Test() {
 		try {
 			Thread.sleep(7000);

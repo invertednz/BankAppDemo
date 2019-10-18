@@ -23,7 +23,7 @@ class MobilePaymentTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 10, name = "{displayName}")
+	@RepeatedTest(value = 22, name = "{displayName}")
 	public void Area10Test() {
 		try {
 			Thread.sleep(10000);

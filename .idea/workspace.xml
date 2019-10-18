@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3db7145-1ef9-4001-b0f4-48eadfa0fdbc" name="Default" comment="" />
+    <list default="true" id="b3db7145-1ef9-4001-b0f4-48eadfa0fdbc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/ACHPaymentTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/ACHPaymentTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/AccountTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/AccountTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/BranchConfigurationTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/BranchConfigurationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/CheckingAccountTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/CheckingAccountTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/ChequeProcessingTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/ChequeProcessingTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/CreditCardApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/CreditCardApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/CreditCardInterestTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/CreditCardInterestTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/JointAccountTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/JointAccountTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/LoginTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/LoginTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/MobilePaymentTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/MobilePaymentTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/NavigationTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/NavigationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlinePaymentTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlinePaymentTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineTransfersTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineTransfersTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/PaymentTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/PaymentTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/SavingAccountInterestTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/SavingAccountInterestTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/SavingsAccountTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/SavingsAccountTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/TransfersTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/TransfersTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/UserTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/UserTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DemoBankingApp/WirePaymentTests.java" afterPath="$PROJECT_DIR$/src/test/java/DemoBankingApp/WirePaymentTests.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,17 +58,17 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineTransfersTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PaymentTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PaymentTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/PaymentTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -58,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/SavingAccountInterestTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -88,13 +108,13 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/UserTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WirePaymentTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WirePaymentTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/WirePaymentTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
@@ -104,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BranchConfigurationTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/BranchConfigurationTests.java">
+      <file leaf-file-name="NavigationTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/NavigationTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -1079,7 +1099,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/AccountTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/JointAccountTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
@@ -1087,23 +1107,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/ACHPaymentTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/CheckingAccountTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/ChequeProcessingTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/CreditCardInterestTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
@@ -1119,7 +1123,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/CreditCardInterestTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/ChequeProcessingTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/CheckingAccountTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/BranchConfigurationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/ACHPaymentTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
@@ -1127,7 +1155,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/JointAccountTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/AccountTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
@@ -1154,7 +1182,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/NavigationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1178,7 +1206,15 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineTransfersTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/PaymentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1186,7 +1222,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/SavingAccountInterestTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1210,7 +1246,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/UserTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1219,22 +1255,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/BranchConfigurationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/PaymentTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -23,7 +23,7 @@ class NavigationTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 10, name = "{displayName}")
+	@RepeatedTest(value = 9, name = "{displayName}")
 	public void Area9Test() {
 		try {
 			Thread.sleep(4500);

@@ -23,7 +23,7 @@ class ChequeProcessingTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 39, name = "{displayName}")
+	@RepeatedTest(value = 63, name = "{displayName}")
 	public void Area18Test() {
 		try {
 			Thread.sleep(1200);

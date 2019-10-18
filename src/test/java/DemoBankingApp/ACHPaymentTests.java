@@ -23,7 +23,7 @@ class ACHPaymentTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 6, name = "{displayName}")
+	@RepeatedTest(value = 8, name = "{displayName}")
 	public void Area5Test() {
 		try {
 			Thread.sleep(5000);

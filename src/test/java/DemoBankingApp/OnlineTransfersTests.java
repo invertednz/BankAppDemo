@@ -23,7 +23,7 @@ class OnlineTransfersTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 8, name = "{displayName}")
+	@RepeatedTest(value = 15, name = "{displayName}")
 	public void Area20Test() {
 		try {
 			Thread.sleep(4500);

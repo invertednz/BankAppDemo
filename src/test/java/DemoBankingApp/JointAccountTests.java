@@ -23,7 +23,7 @@ class JointAccountTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 10, name = "{displayName}")
+	@RepeatedTest(value = 19, name = "{displayName}")
 	public void Area3Test() {
 		try {
 			Thread.sleep(3000);

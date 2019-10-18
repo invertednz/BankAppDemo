@@ -23,7 +23,7 @@ class WirePaymentTests {
 
 	static int i=0;
 
-	@RepeatedTest(value = 4, name = "{displayName}")
+	@RepeatedTest(value = 6, name = "{displayName}")
 	public void Area7Test() {
 		try {
 			Thread.sleep(2500);

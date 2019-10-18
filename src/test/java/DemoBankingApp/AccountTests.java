@@ -23,7 +23,7 @@ class AccountTests {
 
 	static int i=0;
 	
-	@RepeatedTest(value = 24, name = "{displayName}")
+	@RepeatedTest(value = 42, name = "{displayName}")
 	public void Area2Test() {
 		try {
 			Thread.sleep(4000);
