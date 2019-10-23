@@ -118,6 +118,7 @@ while [ "$1" != "" ]; do
     shift
 done
 
+echo "here"
 testsuiteencoded=$(urlencode "$testsuite")
 echo "test suite finished"
 projectencoded=$(urlencode "$project")
