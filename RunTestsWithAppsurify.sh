@@ -1,3 +1,19 @@
+#!/bin/bash -xe
+
+urlencode() {
+    # urlencode <string>
+
+    local length="${#1}"
+    for (( i = 0; i < length; i++ )); do
+        local c="${1:i:1}"
+        case $c in
+            [a-zA-Z0-9.~_-:/]) printf "$c" ;;
+            *) printf '%%%x' \'"$c" ;;
+        esac
+    done
+}
+
+
 maxtests=1000000 #default 10000000
 fail="newdefects, reopeneddefects" #default new defects and reopened defects  #options newdefects, reopeneddefects, flakybrokentests, newflaky, reopenedflaky, failedtests, brokentests
 additionalargs="" #default ''
@@ -102,6 +118,9 @@ while [ "$1" != "" ]; do
     esac
     shift
 done
+
+testsuiteencoded=$(urlencode "$testsuite")
+projectencoded=$(urlencode "$project")
 
 if [[ $commitId == "" ]] ; then commitId=`git log -1 --pretty="%H"` ; fi
 
