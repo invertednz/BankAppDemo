@@ -119,6 +119,7 @@ while [ "$1" != "" ]; do
 done
 
 testsuiteencoded=$(urlencode "$testsuite")
+echo "test suite finished"
 projectencoded=$(urlencode "$project")
 
 if [[ $commitId == "" ]] ; then commitId=`git log -1 --pretty="%H"` ; fi
@@ -146,4 +147,4 @@ echo $commitId
 
 #$url $apiKey $project $testsuite $fail $additionalargs $endrun $testseparator $postfixtest $prefixtest $startrun $fullnameseparator $fullname $failfast $maxrerun $rerun $importtype $teststorun $reporttype $report $commitId $run_id
 echo "Getting tests to run"
-. ./GetAndRunTests.sh
+#. ./GetAndRunTests.sh
