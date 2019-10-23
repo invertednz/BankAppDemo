@@ -1,3 +1,5 @@
+#!/bin/bash -xe
+
 if [[ $reporttype == "directory" ]] ; then
     for fileName in `ls -1 $report*.xml`
         do

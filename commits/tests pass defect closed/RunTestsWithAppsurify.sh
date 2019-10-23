@@ -1,3 +1,5 @@
+#!/bin/bash -xe
+
 urlencode() {
     # urlencode <string>
 
@@ -10,7 +12,6 @@ urlencode() {
         esac
     done
 }
-
 
 
 maxtests=1000000 #default 10000000
