@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: DemoBankingApp.AccountTests
--------------------------------------------------------------------------------
-Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 96.075 s - in DemoBankingApp.AccountTests
