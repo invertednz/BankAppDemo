@@ -1,18 +1,3 @@
-urlencode() {
-    # urlencode <string>
-
-    local length="${#1}"
-    for (( i = 0; i < length; i++ )); do
-        local c="${1:i:1}"
-        case $c in
-            [a-zA-Z0-9.~_-:/]) printf "$c" ;;
-            *) printf '%%%x' \'"$c" ;;
-        esac
-    done
-}
-
-
-
 maxtests=1000000 #default 10000000
 fail="newdefects, reopeneddefects" #default new defects and reopened defects  #options newdefects, reopeneddefects, flakybrokentests, newflaky, reopenedflaky, failedtests, brokentests
 additionalargs="" #default ''
@@ -118,11 +103,6 @@ while [ "$1" != "" ]; do
     shift
 done
 
-echo "here"
-testsuiteencoded=$(urlencode "$testsuite")
-echo "test suite finished"
-projectencoded=$(urlencode "$project")
-
 if [[ $commitId == "" ]] ; then commitId=`git log -1 --pretty="%H"` ; fi
 
 if [[ $report == *.xml* ]] ; then reporttype="file" ; fi
@@ -148,4 +128,4 @@ echo $commitId
 
 #$url $apiKey $project $testsuite $fail $additionalargs $endrun $testseparator $postfixtest $prefixtest $startrun $fullnameseparator $fullname $failfast $maxrerun $rerun $importtype $teststorun $reporttype $report $commitId $run_id
 echo "Getting tests to run"
-#. ./GetAndRunTests.sh
+. ./GetAndRunTests.sh
