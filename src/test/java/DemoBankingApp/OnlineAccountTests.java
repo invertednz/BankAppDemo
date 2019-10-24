@@ -29,7 +29,7 @@ class OnlineAccountTests {
 			Thread.sleep(8000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
-		}fail("Phone turned off");
+		}//fail("Phone turned off");
 	}
 
 	@Test
@@ -39,7 +39,7 @@ class OnlineAccountTests {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		//fail("Real Defect");
+		fail("Unable to open Online Accounts");
 	}
 
 	@Test
@@ -49,7 +49,7 @@ class OnlineAccountTests {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		//fail("Real Defect");
+		fail("Unable to open Online Accounts");
 	}
 
 	@RepeatedTest(value = 2, name = "{displayName}")
@@ -61,7 +61,7 @@ class OnlineAccountTests {
 		}
 		if(i==0){
 			i++;
-			fail("Phone turned off");
+			//fail("Phone turned off");
 		}
 	}
 
@@ -72,7 +72,7 @@ class OnlineAccountTests {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		//fail("Real Defect");
+		fail("Unable to open Online Accounts");
 	}
 
 	@Test

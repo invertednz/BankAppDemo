@@ -99,17 +99,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="OnlineAccountTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OnlineAccountTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineAccountTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="900">
+              <caret line="51" column="47" lean-forward="true" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="File1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Accounts/OnlineAccounts/File1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -189,8 +189,8 @@
         <option value="$PROJECT_DIR$/src/test/java/DemoBankingApp/TransfersTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/DemoBankingApp/UserTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/DemoBankingApp/WirePaymentTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Accounts/OnlineAccounts/File1.java" />
         <option value="$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineAccountTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Accounts/OnlineAccounts/File1.java" />
       </list>
     </option>
   </component>
@@ -935,7 +935,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1380" extended-state="1" />
+    <frame x="0" y="0" width="2560" height="1380" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1235,18 +1235,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Accounts/OnlineAccounts/File1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineAccountTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="900">
+          <caret line="51" column="47" lean-forward="true" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DemoBankingApp/OnlineAccountTests.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Accounts/OnlineAccounts/File1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding />
         </state>
       </provider>
