@@ -26,7 +26,7 @@ class SavingsAccountTests {
 	@RepeatedTest(value = 48, name = "{displayName}")
 	public void SavingAccountTest() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

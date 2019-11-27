@@ -26,7 +26,7 @@ class CreditCardApplicationTests {
 	@RepeatedTest(value = 5, name = "{displayName}")
 	public void CreditCardApplicationTest() {
 		try {
-			Thread.sleep(60);
+			Thread.sleep(6000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

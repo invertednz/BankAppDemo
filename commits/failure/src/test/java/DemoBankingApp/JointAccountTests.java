@@ -26,7 +26,7 @@ class JointAccountTests {
 	@RepeatedTest(value = 19, name = "{displayName}")
 	public void JointAccountTest() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

@@ -26,7 +26,7 @@ class BranchConfigurationTests {
 	@RepeatedTest(value = 44, name = "{displayName}")
 	public void BranchConfigurationTest() {
 		try {
-			Thread.sleep(70);
+			Thread.sleep(7000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

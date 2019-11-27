@@ -26,7 +26,7 @@ class MobilePaymentTests {
 	@RepeatedTest(value = 22, name = "{displayName}")
 	public void MobilePaymentTest() {
 		try {
-			Thread.sleep(100);
+			Thread.sleep(10000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

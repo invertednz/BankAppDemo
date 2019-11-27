@@ -26,7 +26,7 @@ class TransfersTests {
 	@RepeatedTest(value = 78, name = "{displayName}")
 	public void TransfersTest() {
 		try {
-			Thread.sleep(60);
+			Thread.sleep(6000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

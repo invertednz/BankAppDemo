@@ -26,7 +26,7 @@ class ACHPaymentTests {
 	@RepeatedTest(value = 8, name = "{displayName}")
 	public void ACHPaymentTest() {
 		try {
-			Thread.sleep(50);
+			Thread.sleep(5000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

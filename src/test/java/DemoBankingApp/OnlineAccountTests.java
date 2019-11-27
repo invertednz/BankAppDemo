@@ -26,7 +26,7 @@ class OnlineAccountTests {
 	@Test
 	public void OnlineAccountTest1() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}//fail("Phone turned off");
@@ -35,7 +35,7 @@ class OnlineAccountTests {
 	@Test
 	public void OnlineAccountTest2() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -45,7 +45,7 @@ class OnlineAccountTests {
 	@Test
 	public void OnlineAccountTest3() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -55,7 +55,7 @@ class OnlineAccountTests {
 	@RepeatedTest(value = 2, name = "{displayName}")
 	public void OnlineAccountTest4() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -68,7 +68,7 @@ class OnlineAccountTests {
 	@Test
 	public void OnlineAccountTest5() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -78,7 +78,7 @@ class OnlineAccountTests {
 	@Test
 	public void OnlineAccountTest6() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -88,7 +88,7 @@ class OnlineAccountTests {
 	@Test
 	public void OnlineAccountTest7() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -98,7 +98,7 @@ class OnlineAccountTests {
 	@Test
 	public void OnlineAccountTest8() {
 		try {
-			Thread.sleep(30);
+			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
