@@ -14,7 +14,8 @@ urlencode() {
 }
 
 
-maxtests=1000000 #default 10000000
+
+maxtests=100 #default 1000
 fail="newdefects, reopeneddefects" #default new defects and reopened defects  #options newdefects, reopeneddefects, flakybrokentests, newflaky, reopenedflaky, failedtests, brokentests
 additionalargs="" #default ''
 endrun="" #default ''
