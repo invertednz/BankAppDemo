@@ -82,4 +82,17 @@
   <testcase name="OnlineAccountTest6" classname="DemoBankingApp.OnlineAccountTests" time="3.002"/>
   <testcase name="OnlineAccountTest7" classname="DemoBankingApp.OnlineAccountTests" time="3"/>
   <testcase name="OnlineAccountTest8" classname="DemoBankingApp.OnlineAccountTests" time="3"/>
+ <testcase name="OnlineAccountTest9" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+  <testcase name="OnlineAccountTest11" classname="DemoBankingApp.OnlineAccountTests" time="8.002"/>
+  <testcase name="OnlineAccountTest12" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+  <testcase name="OnlineAccountTest13" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+  <testcase name="OnlineAccountTest14" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+  <testcase name="OnlineAccountTest15" classname="DemoBankingApp.OnlineAccountTests" time="8.001"/>
+  <testcase name="OnlineAccountTest16" classname="DemoBankingApp.OnlineAccountTests" time="8.001"/>
+  <testcase name="OnlineAccountTest17" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+  <testcase name="OnlineAccountTest18" classname="DemoBankingApp.OnlineAccountTests" time="8.003"/>
+  <testcase name="OnlineAccountTest19" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+  <testcase name="OnlineAccountTest20" classname="DemoBankingApp.OnlineAccountTests" time="8.002"/>
+  <testcase name="OnlineAccountTest21" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+  <testcase name="OnlineAccountTest22" classname="DemoBankingApp.OnlineAccountTests" time="8.002"/>
 </testsuite>
