@@ -61,6 +61,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
+  <testcase name="OnlineAccountTest1" classname="DemoBankingApp.OnlineAccountTests" time="3.015">
+    <failure message="Phone turned off" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Phone turned off
+	at DemoBankingApp.OnlineAccountTests.OnlineAccountTest1(OnlineAccountTests.java:32)
+</failure>
+  </testcase>
   <testcase name="OnlineAccountTest1" classname="DemoBankingApp.OnlineAccountTests" time="3.003"/>
   <testcase name="OnlineAccountTest2" classname="DemoBankingApp.OnlineAccountTests" time="3.011">
     <failure message="Unable to open Online Accounts" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Unable to open Online Accounts
@@ -72,8 +77,12 @@
 	at DemoBankingApp.OnlineAccountTests.OnlineAccountTest3(OnlineAccountTests.java:52)
 </failure>
   </testcase>
-  <testcase name="OnlineAccountTest4[1]" classname="DemoBankingApp.OnlineAccountTests" time="3.002"/>
-  <testcase name="OnlineAccountTest4[2]" classname="DemoBankingApp.OnlineAccountTests" time="3"/>
+  <testcase name="OnlineAccountTest4" classname="DemoBankingApp.OnlineAccountTests" time="3.002">
+    <failure message="Phone turned off" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Phone turned off
+	at DemoBankingApp.OnlineAccountTests.OnlineAccountTest4(OnlineAccountTests.java:64)
+</failure>
+  </testcase>
+  <testcase name="OnlineAccountTest4" classname="DemoBankingApp.OnlineAccountTests" time="3"/>
   <testcase name="OnlineAccountTest5" classname="DemoBankingApp.OnlineAccountTests" time="3.001">
     <failure message="Unable to open Online Accounts" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Unable to open Online Accounts
 	at DemoBankingApp.OnlineAccountTests.OnlineAccountTest5(OnlineAccountTests.java:75)
@@ -82,7 +91,7 @@
   <testcase name="OnlineAccountTest6" classname="DemoBankingApp.OnlineAccountTests" time="3.002"/>
   <testcase name="OnlineAccountTest7" classname="DemoBankingApp.OnlineAccountTests" time="3"/>
   <testcase name="OnlineAccountTest8" classname="DemoBankingApp.OnlineAccountTests" time="3"/>
-  <testcase name="OnlineAccountTest9" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
+ <testcase name="OnlineAccountTest9" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
   <testcase name="OnlineAccountTest11" classname="DemoBankingApp.OnlineAccountTests" time="8.002"/>
   <testcase name="OnlineAccountTest12" classname="DemoBankingApp.OnlineAccountTests" time="8"/>
   <testcase name="OnlineAccountTest13" classname="DemoBankingApp.OnlineAccountTests" time="8"/>

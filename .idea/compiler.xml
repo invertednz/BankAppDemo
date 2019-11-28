@@ -7,12 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AppsurifyDemoRepo" />
-        <module name="DemoBankingApp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AppsurifyDemoRepo" target="1.8" />
-      <module name="DemoBankingApp" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

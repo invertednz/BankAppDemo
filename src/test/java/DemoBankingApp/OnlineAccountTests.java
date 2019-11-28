@@ -29,8 +29,9 @@ class OnlineAccountTests {
 			Thread.sleep(8000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
-		}//fail("Phone turned off");
+		}fail("Phone turned off");
 	}
+	
 
 	@Test
 	public void OnlineAccountTest2() {
@@ -61,7 +62,7 @@ class OnlineAccountTests {
 		}
 		if(i==0){
 			i++;
-			//fail("Phone turned off");
+			fail("Phone turned off");
 		}
 	}
 
@@ -222,4 +223,4 @@ class OnlineAccountTests {
 		//fail("Real Defect");
 	}
 }
-
+}
